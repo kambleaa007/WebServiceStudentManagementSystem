@@ -1,6 +1,6 @@
 # WebServiceStudentManagementSystem
 
-Working code for student management 
+NOT Working code for student management 
 Need to use postman
 USER 
 STUDENT
